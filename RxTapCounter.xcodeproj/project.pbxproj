@@ -18,7 +18,6 @@
 /* Begin PBXFileReference section */
 		5E428FEA76B8C8B64D13051F /* Pods-RxTapCounter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxTapCounter.debug.xcconfig"; path = "Target Support Files/Pods-RxTapCounter/Pods-RxTapCounter.debug.xcconfig"; sourceTree = "<group>"; };
 		7FA9079FA4D5FA3462E8DABF /* Pods_RxTapCounter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxTapCounter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B1F75E9223FB25C00B4FBDF /* TitilliumWeb-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-Bold.ttf"; sourceTree = "<group>"; };
 		9BE4F916223EE89A008F362C /* RxTapCounter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxTapCounter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BE4F919223EE89A008F362C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BE4F91B223EE89A008F362C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,7 +60,6 @@
 		9BE4F90D223EE89A008F362C = {
 			isa = PBXGroup;
 			children = (
-				9B1F75E9223FB25C00B4FBDF /* TitilliumWeb-Bold.ttf */,
 				9BE4F918223EE89A008F362C /* RxTapCounter */,
 				9BE4F917223EE89A008F362C /* Products */,
 				4CCD076261C90F890F165359 /* Pods */,
